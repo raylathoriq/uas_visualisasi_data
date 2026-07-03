@@ -1,0 +1,726 @@
+id_pegawai,jk,tgl_lahir,rumpun_ilmu,stat_aktif,stat_pegawai,ikatan_kerja,pendidikan,pangkat,jabatan_akademik,sertifikasi,tahun_sertifikasi,tgl_jabatan_akademik,jenj_prodi,prodi,fakultas,usia,kelompok_usia,status_sertifikasi,mendekati_pensiun
+1,L,1972-02-10,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,54,51-55,Belum,False
+2,L,1985-03-27,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor Kepala,Sertifikasi Dosen,2020.0,2023-06-01,S1,Teknik Mesin,FT,41,41-50,Bersertifikat,False
+3,P,1990-01-09,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2024-05-01,S1,Sistem Informasi,FIK,36,30-40,Belum,False
+4,P,1987-01-12,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2018.0,2023-07-03,S1,Informatika,FIK,39,30-40,Bersertifikat,False
+5,P,1967-11-28,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,59,>55,Belum,True
+6,L,1966-02-17,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,60,>55,Belum,True
+7,P,1971-08-31,Tidak Terdefinisi,TUGAS BELAJAR,NON ASN,Dosen Tidak Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2017.0,2016-01-01,D3,Keperawatan,FIKES,55,51-55,Bersertifikat,False
+8,L,1990-01-03,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2022-06-01,S1,Gizi,FIKES,36,30-40,Bersertifikat,False
+9,L,1961-09-30,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2015.0,2023-07-03,S1,Informatika,FIK,65,>55,Bersertifikat,True
+10,P,1994-03-11,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Teknik Industri,FT,32,30-40,Belum,False
+11,L,1971-04-28,RUMPUN ILMU TERAPAN,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,S3,IV/d - Pembina Utama Madya,Lektor Kepala,Sertifikasi Dosen,2024.0,2023-12-01,S2,Hukum,FH,55,51-55,Bersertifikat,False
+12,L,1968-04-22,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,58,>55,Belum,True
+13,L,1994-01-18,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Hukum,FH,32,30-40,Belum,False
+14,P,1985-09-09,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2017.0,2019-04-01,S1,Ilmu Komunikasi,FISIP,41,41-50,Bersertifikat,False
+15,L,1961-08-21,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2016.0,2000-06-01,S1,Ilmu Komunikasi,FISIP,65,>55,Bersertifikat,True
+16,P,1975-07-01,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Sp-1,Radiologi,FK,51,51-55,Belum,False
+17,P,1993-10-20,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-05-03,D3,Fisioterapi,FIKES,33,30-40,Belum,False
+18,L,1964-11-24,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2012.0,2006-06-01,S1,Ekonomi Pembangunan,FEB,62,>55,Bersertifikat,True
+19,L,1988-10-20,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2022-03-01,S1,Teknik Mesin,FT,38,30-40,Bersertifikat,False
+20,P,1962-12-01,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor Kepala,Sertifikasi Dosen,2015.0,2002-09-01,S1,Hukum,FH,64,>55,Bersertifikat,True
+21,P,1985-07-05,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2022.0,2023-07-03,D3,Perbankan dan Keuangan,FEB,41,41-50,Bersertifikat,False
+22,L,1987-04-29,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2022.0,2022-09-01,S1,Ilmu Politik,FISIP,39,30-40,Bersertifikat,False
+23,P,1961-10-13,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/a - Pembina,Lektor,Sertifikasi Dosen,2012.0,2017-11-01,S2,Manajemen,FISIP,65,>55,Bersertifikat,True
+24,L,1960-08-04,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/b - Pembina Tk. I,Profesor,Sertifikasi Dosen,2012.0,2023-08-01,S2,Manajemen,FISIP,66,>55,Bersertifikat,True
+25,P,1978-10-26,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2020.0,2022-07-01,S1,Keperawatan,FIKES,48,41-50,Bersertifikat,False
+26,L,1989-07-13,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Lektor,Belum Sertifikasi,,2024-09-01,S1,Hubungan Internasional,FH,37,30-40,Belum,False
+27,P,1991-02-09,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,Non-Golongan,Lektor,Belum Sertifikasi,,2022-07-01,S1,Hukum,FH,35,30-40,Belum,False
+28,P,1975-01-30,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,51,51-55,Belum,False
+29,P,1989-09-02,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2024.0,2023-04-01,S1,Hubungan Internasional,FH,37,30-40,Bersertifikat,False
+30,L,1984-09-15,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S3,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Hukum,FH,42,41-50,Belum,False
+31,L,1965-10-25,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2017.0,2016-01-01,S2,Manajemen,FISIP,61,>55,Bersertifikat,True
+32,L,1986-07-18,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2021-11-01,S1,Teknik Mesin,FT,40,30-40,Belum,False
+33,L,1978-08-02,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2019.0,2024-09-01,S1,"Kajian Film, Televisi, dan Media",FISIP,48,41-50,Bersertifikat,False
+34,P,1971-10-18,RUMPUN ILMU FORMAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2012.0,2020-06-01,S1,Informatika,FIK,55,51-55,Bersertifikat,False
+35,P,1964-05-24,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S3,IV/c - Pembina Utama Muda,Belum Ada,Belum Sertifikasi,,,S1,Sains Informasi,FISIP,62,>55,Belum,True
+36,L,1972-09-29,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2022-10-01,S1,Teknik Mesin,FT,54,51-55,Bersertifikat,False
+37,P,1991-03-24,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Belum Sertifikasi,,2023-05-03,S1,Keperawatan,FIKES,35,30-40,Belum,False
+38,P,1964-11-04,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2011.0,2001-01-01,S1,Manajemen,FISIP,62,>55,Bersertifikat,True
+39,P,1989-09-30,RUMPUN ILMU FORMAL,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2022-01-01,S1,Informatika,FIK,37,30-40,Bersertifikat,False
+40,L,1981-12-28,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,44,41-50,Belum,False
+41,P,1986-05-10,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2017.0,2022-09-01,S1,Ilmu Politik,FISIP,40,30-40,Bersertifikat,False
+42,P,1984-09-01,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2023.0,2020-02-01,S1,Manajemen,FISIP,42,41-50,Bersertifikat,False
+43,P,1990-06-19,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2024-05-01,S1,Informatika,FIK,36,30-40,Belum,False
+44,P,1986-12-05,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2022.0,2022-06-01,S1,Gizi,FIKES,40,30-40,Bersertifikat,False
+45,L,1993-02-09,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Informatika,FIK,33,30-40,Belum,False
+46,L,1981-04-28,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,45,41-50,Belum,False
+47,P,1962-06-07,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/c - Pembina Utama Muda,Lektor Kepala,Sertifikasi Dosen,2008.0,2019-07-01,S1,Manajemen,FISIP,64,>55,Bersertifikat,True
+48,L,1976-03-20,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,50,41-50,Belum,False
+49,L,1966-06-06,RUMPUN ILMU TERAPAN,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,60,>55,Belum,True
+50,L,1987-02-15,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2020.0,2022-01-01,S1,Ekonomi Syariah,FEB,39,30-40,Bersertifikat,False
+51,P,1977-08-28,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,49,41-50,Belum,False
+52,P,1984-03-14,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,42,41-50,Belum,False
+53,P,1989-12-17,RUMPUN ILMU ALAM,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2024.0,2024-01-01,S1,Biologi,FIKES,37,30-40,Bersertifikat,False
+54,P,1989-06-06,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2024.0,2023-06-05,S1,Farmasi,FIKES,37,30-40,Bersertifikat,False
+55,P,1987-07-25,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2018.0,2023-05-03,S1,Teknik Industri,FT,39,30-40,Bersertifikat,False
+56,L,1981-06-25,RUMPUN ILMU FORMAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2023-05-03,S1,Sistem Informasi,FIK,45,41-50,Belum,False
+57,P,1961-02-16,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2011.0,2001-01-01,S1,Manajemen,FISIP,65,>55,Bersertifikat,True
+58,L,1964-11-12,RUMPUN ILMU TERAPAN,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,62,>55,Belum,True
+59,P,1988-02-07,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2023-05-03,S1,Keperawatan,FIKES,38,30-40,Bersertifikat,False
+60,L,1964-03-25,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/c - Pembina Utama Muda,Lektor Kepala,Sertifikasi Dosen,2008.0,2017-02-01,S1,Akuntansi,FEB,62,>55,Bersertifikat,True
+61,P,1987-08-23,RUMPUN ILMU FORMAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2017.0,2023-06-05,S1,Sistem Informasi,FIK,39,30-40,Bersertifikat,False
+62,L,1988-07-05,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,Profesi,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,38,30-40,Belum,False
+63,L,1967-02-20,RUMPUN ILMU TERAPAN,Aktif,TNI,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,59,>55,Belum,True
+64,P,1978-02-04,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,Sp-1,III/d - Penata Tk. I,Belum Ada,Belum Sertifikasi,,,Sp-1,Radiologi,FK,48,41-50,Belum,False
+65,L,1987-09-22,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2019.0,2022-01-01,S1,Hukum,FH,39,30-40,Bersertifikat,False
+66,L,1980-07-17,RUMPUN ILMU SOSIAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor Kepala,Sertifikasi Dosen,2017.0,2023-11-01,S2,Hubungan Internasional,FH,46,41-50,Bersertifikat,False
+67,P,1992-06-30,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2023-05-03,S1,Kesehatan Masyarakat,FIKES,34,30-40,Bersertifikat,False
+68,L,1991-12-11,RUMPUN ILMU HUMANIORA,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2024-05-01,S1,Ilmu Komunikasi,FISIP,35,30-40,Belum,False
+69,P,1983-04-09,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Farmasi,FIKES,43,41-50,Belum,False
+70,P,1964-12-27,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor Kepala,Sertifikasi Dosen,2011.0,2024-09-01,S1,Ekonomi Pembangunan,FEB,61,>55,Bersertifikat,True
+71,L,1988-10-11,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2024.0,2023-06-05,S1,Ekonomi Syariah,FEB,38,30-40,Bersertifikat,False
+72,P,1994-12-02,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-07-03,S1,Ilmu Komunikasi,FISIP,32,30-40,Belum,False
+73,P,1986-09-07,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2022.0,2022-03-01,S1,Farmasi,FIKES,40,30-40,Bersertifikat,False
+74,P,1972-06-25,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2018.0,2020-11-01,S1,Hukum,FH,54,51-55,Bersertifikat,False
+75,L,1977-11-24,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2020-06-01,S1,Ekonomi Pembangunan,FEB,49,41-50,Belum,False
+76,P,1965-12-27,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2013.0,2001-01-01,S1,Ilmu Komunikasi,FISIP,60,>55,Bersertifikat,True
+77,L,1977-01-20,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2012.0,2016-01-01,S2,Hubungan Internasional,FH,49,41-50,Bersertifikat,False
+78,P,1976-03-08,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor Kepala,Sertifikasi Dosen,2011.0,2020-03-01,S2,Akuntansi,FEB,50,41-50,Bersertifikat,False
+79,L,1960-12-27,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tidak Tetap,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2023-02-01,S1,Ekonomi Pembangunan,FEB,65,>55,Belum,True
+80,P,1977-11-05,RUMPUN ILMU FORMAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2012.0,2023-05-03,D3,Sistem Informasi,FIK,49,41-50,Bersertifikat,False
+81,P,1988-11-18,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,Sp-1,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,38,30-40,Belum,False
+82,L,1974-05-09,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2023-02-01,S1,Ekonomi Pembangunan,FEB,52,51-55,Belum,False
+83,L,1990-04-15,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,Sp-1,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,36,30-40,Belum,False
+84,P,1975-11-30,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/a - Penata Muda,Asisten Ahli,Sertifikasi Dosen,2019.0,1970-01-01,D3,Perbankan dan Keuangan,FEB,51,51-55,Bersertifikat,False
+85,L,1965-03-01,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2023-07-03,S2,Manajemen,FISIP,61,>55,Belum,True
+86,L,1963-10-28,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/d - Pembina Utama Madya,Belum Ada,Belum Sertifikasi,,,S1,Akuntansi,FEB,63,>55,Belum,True
+87,L,1997-09-25,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Manajemen,FISIP,29,<30,Belum,False
+88,P,1977-03-16,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2019.0,2017-11-01,S2,Ilmu Komunikasi,FISIP,49,41-50,Bersertifikat,False
+89,L,1976-07-26,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2018-08-01,S1,Ilmu Politik,FISIP,50,41-50,Belum,False
+90,P,1998-06-10,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Kesehatan Masyarakat,FIKES,28,<30,Belum,False
+91,P,1985-02-14,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,41,41-50,Belum,False
+92,P,1984-03-05,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2024.0,2019-10-01,S1,Akuntansi,FEB,42,41-50,Bersertifikat,False
+93,P,1993-08-24,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Farmasi,FIKES,33,30-40,Belum,False
+94,L,1960-05-06,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2012.0,2007-10-01,S1,Teknik Mesin,FT,66,>55,Bersertifikat,True
+95,P,1993-03-23,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,NON ASN,Dosen Tidak Tetap,S2,III/c - Penata,Lektor,Belum Sertifikasi,,2023-05-03,S1,Fisioterapi,FIKES,33,30-40,Belum,False
+96,L,1973-05-18,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,53,51-55,Belum,False
+97,L,1992-12-18,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2022.0,2022-04-01,S1,Teknik Industri,FT,34,30-40,Bersertifikat,False
+98,P,1971-03-22,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2012.0,2012-08-01,S2,Ilmu Komunikasi,FISIP,55,51-55,Bersertifikat,False
+99,L,1984-08-05,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,42,41-50,Belum,False
+100,P,1977-07-23,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,49,41-50,Belum,False
+101,P,1984-06-25,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,42,41-50,Belum,False
+102,L,1968-04-16,RUMPUN ILMU TERAPAN,Aktif,TNI,Dosen Tidak Tetap,S3,Non-Golongan,Lektor,Belum Sertifikasi,,2020-06-01,S2,Hukum,FH,58,>55,Belum,True
+103,P,1989-09-19,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Belum Sertifikasi,,2023-02-01,S1,Keperawatan,FIKES,37,30-40,Belum,False
+104,L,1985-10-04,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,41,41-50,Belum,False
+105,P,1988-05-29,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2021.0,2022-08-01,S1,Ilmu Komunikasi,FISIP,38,30-40,Bersertifikat,False
+106,P,1981-11-17,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S3,III/c - Penata,Belum Ada,Belum Sertifikasi,,,S2,Kesehatan Masyarakat,FIKES,45,41-50,Belum,False
+107,L,1978-12-31,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2017.0,2018-04-01,S1,Teknik Industri,FT,47,41-50,Bersertifikat,False
+108,P,1968-09-28,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2016.0,2018-08-01,S1,Kedokteran,FK,58,>55,Bersertifikat,True
+109,P,1991-11-06,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2021.0,2021-04-01,S1,Gizi,FIKES,35,30-40,Bersertifikat,False
+110,L,1977-04-20,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,49,41-50,Belum,False
+111,P,1976-02-14,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor Kepala,Sertifikasi Dosen,2012.0,2021-07-01,D3,Keperawatan,FIKES,50,41-50,Bersertifikat,False
+112,L,1987-02-13,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,Sp-1,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2024-11-01,S1,Kedokteran,FK,39,30-40,Belum,False
+113,L,1992-10-04,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2024.0,2024-11-01,S1,Keperawatan,FIKES,34,30-40,Bersertifikat,False
+114,L,1976-04-23,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2021-11-01,S1,Informatika,FIK,50,41-50,Belum,False
+115,P,1986-08-26,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2024.0,2022-01-01,S1,Akuntansi,FEB,40,30-40,Bersertifikat,False
+116,P,1961-06-02,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,,1997-07-01,S1,Manajemen,FISIP,65,>55,Bersertifikat,True
+117,P,1974-09-08,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2013.0,2018-04-01,S1,Sistem Informasi,FIK,52,51-55,Bersertifikat,False
+118,P,1989-06-05,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2020.0,2021-07-01,S1,Manajemen,FISIP,37,30-40,Bersertifikat,False
+119,L,1988-08-16,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2018.0,2021-10-01,S1,Gizi,FIKES,38,30-40,Bersertifikat,False
+120,L,1993-04-19,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Teknik Industri,FT,33,30-40,Belum,False
+121,L,1970-10-23,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,56,>55,Belum,True
+122,L,1985-08-31,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2022.0,2022-03-01,S1,Hubungan Internasional,FH,41,41-50,Bersertifikat,False
+123,L,1961-02-22,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2012.0,2011-03-01,S1,Teknik Industri,FT,65,>55,Bersertifikat,True
+124,L,1979-08-26,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/a - Penata Muda,Lektor,Sertifikasi Dosen,2014.0,2016-01-01,S1,Hubungan Internasional,FH,47,41-50,Bersertifikat,False
+125,P,1983-04-15,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor Kepala,Sertifikasi Dosen,2020.0,2024-09-01,S1,Kesehatan Masyarakat,FIKES,43,41-50,Bersertifikat,False
+126,P,1981-12-08,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,45,41-50,Belum,False
+127,P,1971-03-02,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2013.0,2021-04-01,S1,Kedokteran,FK,55,51-55,Bersertifikat,False
+128,P,1981-05-20,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2013.0,2017-05-31,S1,Keperawatan,FIKES,45,41-50,Bersertifikat,False
+129,P,1975-04-06,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,Sp-1,III/d - Penata Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,51,51-55,Belum,False
+130,P,1991-07-02,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2020-03-01,S1,Kesehatan Masyarakat,FIKES,35,30-40,Belum,False
+131,L,1993-08-31,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-07-03,S1,Sains Data,FIK,33,30-40,Belum,False
+132,P,1991-09-04,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-04-01,S1,Gizi,FIKES,35,30-40,Belum,False
+133,L,1966-01-12,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2014.0,2017-11-01,S1,Ilmu Komunikasi,FISIP,60,>55,Bersertifikat,True
+134,L,1993-10-10,RUMPUN ILMU SOSIAL,TUGAS BELAJAR,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2023-11-01,S1,Ilmu Politik,FISIP,33,30-40,Belum,False
+135,L,1982-11-30,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,44,41-50,Belum,False
+136,P,1992-07-16,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-05-03,S1,Keperawatan,FIKES,34,30-40,Belum,False
+137,P,1977-05-07,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2013.0,2005-09-22,S1,Kesehatan Masyarakat,FIKES,49,41-50,Bersertifikat,False
+138,L,1981-08-11,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Sp-1,Radiologi,FK,45,41-50,Belum,False
+139,L,1988-01-20,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2018-04-01,S1,Hubungan Internasional,FH,38,30-40,Belum,False
+140,L,1983-06-04,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S3,III/c - Penata,Asisten Ahli,Sertifikasi Dosen,2016.0,2016-01-01,S2,Hubungan Internasional,FH,43,41-50,Bersertifikat,False
+141,L,1995-04-01,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Hukum,FH,31,30-40,Belum,False
+142,L,1986-10-20,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2017.0,2023-05-03,S1,Sistem Informasi,FIK,40,30-40,Bersertifikat,False
+143,P,1994-12-31,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2023-07-03,S1,Hukum Bisnis,FH,31,30-40,Bersertifikat,False
+144,L,1993-12-21,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Belum Sertifikasi,,2023-04-01,S1,Hukum Bisnis,FH,32,30-40,Belum,False
+145,P,1974-10-20,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2023-05-03,S2,Kesehatan Masyarakat,FIKES,52,51-55,Belum,False
+146,L,1993-04-28,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor,Belum Sertifikasi,,2023-04-01,S1,Hukum,FH,33,30-40,Belum,False
+147,P,1988-07-20,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor Kepala,Sertifikasi Dosen,2020.0,2024-12-01,Profesi,Pendidikan Profesi Ners,FK,38,30-40,Bersertifikat,False
+148,P,1963-07-03,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2021.0,1998-10-31,S2,Manajemen,FISIP,63,>55,Bersertifikat,True
+149,P,1982-06-24,RUMPUN ILMU FORMAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2016.0,2020-03-01,D3,Sistem Informasi,FIK,44,41-50,Bersertifikat,False
+150,P,1969-08-02,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2017.0,2020-07-01,D3,Keperawatan,FIKES,57,>55,Bersertifikat,True
+151,P,1992-02-02,Tidak Terdefinisi,TUGAS BELAJAR,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2023.0,2022-09-01,D3,Fisioterapi,FIKES,34,30-40,Bersertifikat,False
+152,P,1991-06-29,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2022.0,2023-07-03,S1,Ilmu Komunikasi,FISIP,35,30-40,Bersertifikat,False
+153,L,1981-06-24,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor Kepala,Sertifikasi Dosen,2018.0,2024-02-01,S1,Manajemen,FISIP,45,41-50,Bersertifikat,False
+154,P,1989-01-10,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2023-04-01,S1,Hukum,FH,37,30-40,Bersertifikat,False
+155,P,1995-07-29,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Teknik Industri,FT,31,30-40,Belum,False
+156,L,1960-03-09,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,S3,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Hubungan Internasional,FH,66,>55,Belum,True
+157,L,1984-07-29,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2023-07-03,S1,Ilmu Komunikasi,FISIP,42,41-50,Bersertifikat,False
+158,P,1982-05-18,RUMPUN ILMU ALAM,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2016.0,2017-11-01,S1,Kedokteran,FK,44,41-50,Bersertifikat,False
+159,P,1960-10-15,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tidak Tetap,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2022-11-01,S1,Hubungan Internasional,FH,66,>55,Belum,True
+160,L,1990-12-23,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2023-05-01,S1,Ilmu Komunikasi,FISIP,35,30-40,Bersertifikat,False
+161,P,1964-04-30,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/a - Pembina,Lektor,Sertifikasi Dosen,2011.0,2016-01-01,S1,Ilmu Komunikasi,FISIP,62,>55,Bersertifikat,True
+162,P,1984-04-15,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2016.0,2019-09-30,S1,Kedokteran,FK,42,41-50,Bersertifikat,False
+163,P,1961-11-14,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S3,IV/d - Pembina Utama Madya,Profesor,Sertifikasi Dosen,,2022-03-01,S2,Akuntansi,FEB,65,>55,Bersertifikat,True
+164,L,1983-10-21,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2020-02-01,S1,Teknik Perkapalan,FT,43,41-50,Belum,False
+165,P,1993-08-03,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2024-01-01,S1,Keperawatan,FIKES,33,30-40,Belum,False
+166,L,1970-07-14,RUMPUN ILMU FORMAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2018.0,2018-04-01,S1,Informatika,FIK,56,>55,Bersertifikat,True
+167,P,1976-01-02,RUMPUN ILMU FORMAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2012.0,2023-07-03,D3,Sistem Informasi,FIK,50,41-50,Bersertifikat,False
+168,L,1962-07-18,RUMPUN ILMU TERAPAN,Aktif,POLRI,Dosen Tidak Tetap,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2023-12-01,S1,Hukum,FH,64,>55,Belum,True
+169,L,1989-04-06,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2021.0,2022-08-01,S1,Ilmu Komunikasi,FISIP,37,30-40,Bersertifikat,False
+170,P,1985-02-19,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2019.0,2020-02-01,S1,Ilmu Komunikasi,FISIP,41,41-50,Bersertifikat,False
+171,L,1983-08-21,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2021.0,2022-01-01,S1,Hubungan Internasional,FH,43,41-50,Bersertifikat,False
+172,P,1983-03-25,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2021-11-01,S1,Teknik Industri,FT,43,41-50,Bersertifikat,False
+173,P,1987-08-27,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2021.0,2020-07-01,S1,Hukum,FH,39,30-40,Bersertifikat,False
+174,L,1963-12-04,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2017.0,2020-11-01,S1,Hukum,FH,63,>55,Bersertifikat,True
+175,L,1968-01-10,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2011.0,2013-06-01,S1,Manajemen,FISIP,58,>55,Bersertifikat,True
+176,L,1983-03-30,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2019.0,2019-04-01,S1,Ilmu Komunikasi,FISIP,43,41-50,Bersertifikat,False
+177,L,1990-11-03,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-08-01,S1,Hubungan Internasional,FH,36,30-40,Belum,False
+178,L,1970-09-25,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2017-04-01,S1,Hukum,FH,56,>55,Bersertifikat,True
+179,L,1973-08-04,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/b - Pembina Tk. I,Lektor,Belum Sertifikasi,,2023-04-03,S1,Hukum,FH,53,51-55,Belum,False
+180,L,1982-06-27,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2017.0,2018-12-01,S1,Teknik Industri,FT,44,41-50,Bersertifikat,False
+181,P,1990-06-29,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-06-05,S1,Kedokteran,FK,36,30-40,Belum,False
+182,L,1976-01-15,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor Kepala,Sertifikasi Dosen,2020.0,2023-10-01,S3,Hukum,FH,50,41-50,Bersertifikat,False
+183,P,1994-06-09,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Akuntansi,FEB,32,30-40,Belum,False
+184,P,2000-02-24,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Manajemen,FISIP,26,<30,Belum,False
+185,P,1992-04-10,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2020-08-01,S1,Kesehatan Masyarakat,FIKES,34,30-40,Bersertifikat,False
+186,L,1993-06-03,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2023-05-03,S1,Teknik Perkapalan,FT,33,30-40,Belum,False
+187,L,1994-04-04,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2024.0,2024-11-01,S1,Sains Data,FIK,32,30-40,Bersertifikat,False
+188,P,1992-05-17,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Manajemen,FISIP,34,30-40,Belum,False
+189,P,1986-01-10,RUMPUN ILMU SOSIAL,Aktif,CPNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2019.0,2021-10-01,S1,Ilmu Politik,FISIP,40,30-40,Bersertifikat,False
+190,L,1985-03-03,RUMPUN ILMU FORMAL,TUGAS BELAJAR,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2018-04-01,S1,Informatika,FIK,41,41-50,Belum,False
+191,L,1959-12-18,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,67,>55,Belum,True
+192,L,1989-07-29,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Teknik Industri,FT,37,30-40,Belum,False
+193,P,1999-07-05,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Biologi,FIKES,27,<30,Belum,False
+194,L,1995-12-30,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Biologi,FIKES,30,<30,Belum,False
+195,L,1973-11-08,Tidak Terdefinisi,Aktif,POLRI,Dosen Tidak Tetap,Sp-2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,53,51-55,Belum,False
+196,P,1988-10-10,RUMPUN ILMU FORMAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2020.0,2019-09-02,D3,Sistem Informasi,FIK,38,30-40,Bersertifikat,False
+197,P,1972-07-09,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Ilmu Politik,FISIP,54,51-55,Belum,False
+198,P,1984-03-05,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2019.0,2022-01-01,S1,Akuntansi,FEB,42,41-50,Bersertifikat,False
+199,L,1978-08-19,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor,Belum Sertifikasi,,2022-11-01,S1,Kedokteran,FK,48,41-50,Belum,False
+200,P,1971-08-28,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2022-10-01,S1,Kedokteran,FK,55,51-55,Belum,False
+201,L,1965-08-29,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2024-06-01,S2,Manajemen,FISIP,61,>55,Belum,True
+202,P,1972-08-19,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,54,51-55,Belum,False
+203,L,1989-09-26,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2017.0,2023-01-01,S1,Akuntansi,FEB,37,30-40,Bersertifikat,False
+204,L,1967-03-11,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2021-02-01,S1,Kedokteran,FK,59,>55,Belum,True
+205,P,1989-11-24,Tidak Terdefinisi,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2022-07-01,S1,Sistem Informasi,FIK,37,30-40,Bersertifikat,False
+206,P,1974-09-19,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-07-01,S1,Kedokteran,FK,52,51-55,Belum,False
+207,P,1972-10-16,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2015.0,2023-07-03,S1,Kedokteran,FK,54,51-55,Bersertifikat,False
+208,L,1992-11-03,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-07-03,S1,Informatika,FIK,34,30-40,Belum,False
+209,L,1985-08-02,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-06-05,S1,Informatika,FIK,41,41-50,Belum,False
+210,L,1988-01-12,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor,Belum Sertifikasi,,2023-05-03,S2,Kesehatan Masyarakat,FIKES,38,30-40,Belum,False
+211,L,1971-10-01,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,55,51-55,Belum,False
+212,P,1970-10-11,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,56,>55,Belum,True
+213,L,1975-08-10,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,51,51-55,Belum,False
+214,P,1973-10-19,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,53,51-55,Belum,False
+215,P,1991-06-26,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2018.0,2022-01-01,S1,Hukum,FH,35,30-40,Bersertifikat,False
+216,P,1989-07-18,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2020.0,2020-08-01,S1,Kesehatan Masyarakat,FIKES,37,30-40,Bersertifikat,False
+217,L,1979-05-15,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2021.0,2020-12-01,S1,Ilmu Politik,FISIP,47,41-50,Bersertifikat,False
+218,L,1979-05-11,RUMPUN ILMU TERAPAN,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,S3,IV/b - Pembina Tk. I,Lektor,Belum Sertifikasi,,2022-01-01,S2,Akuntansi,FEB,47,41-50,Belum,False
+219,P,1991-10-24,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2021.0,2022-04-01,S1,Kesehatan Masyarakat,FIKES,35,30-40,Bersertifikat,False
+220,P,1994-08-02,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2024-05-01,S1,Sains Informasi,FISIP,32,30-40,Belum,False
+221,L,1973-09-16,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/a - Pembina,Lektor Kepala,Sertifikasi Dosen,2020.0,2024-12-01,S1,Kedokteran,FK,53,51-55,Bersertifikat,False
+222,P,1988-05-18,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,38,30-40,Belum,False
+223,L,1990-01-13,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,NON ASN,Dosen Tidak Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2020.0,2021-04-01,S1,Gizi,FIKES,36,30-40,Bersertifikat,False
+224,P,1992-06-13,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2023-08-01,S1,Sains Informasi,FISIP,34,30-40,Bersertifikat,False
+225,L,1968-12-17,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2010.0,2009-01-01,S1,Manajemen,FISIP,58,>55,Bersertifikat,True
+226,P,1993-09-08,RUMPUN ILMU FORMAL,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-07-01,S1,Sistem Informasi,FIK,33,30-40,Belum,False
+227,P,1962-02-27,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2011.0,2007-09-01,S1,Manajemen,FISIP,64,>55,Bersertifikat,True
+228,P,1975-08-22,RUMPUN ILMU FORMAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2012.0,2012-01-01,S1,Sistem Informasi,FIK,51,51-55,Bersertifikat,False
+229,L,1998-01-25,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Kesehatan Masyarakat,FIKES,28,<30,Belum,False
+230,L,1979-11-12,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,47,41-50,Belum,False
+231,P,1967-06-25,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2016.0,2023-07-03,S1,Kesehatan Masyarakat,FIKES,59,>55,Bersertifikat,True
+232,L,1986-11-30,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2024.0,2021-03-01,S1,Ilmu Politik,FISIP,40,30-40,Bersertifikat,False
+233,L,1964-12-10,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S3,IV/d - Pembina Utama Madya,Lektor,Belum Sertifikasi,,2022-02-01,S1,Ilmu Politik,FISIP,62,>55,Belum,True
+234,P,1975-08-22,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2020.0,2022-11-01,S1,Kedokteran,FK,51,51-55,Bersertifikat,False
+235,L,1989-07-15,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2019.0,2023-07-03,S1,Informatika,FIK,37,30-40,Bersertifikat,False
+236,P,1974-06-11,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,52,51-55,Belum,False
+237,P,1971-07-09,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2015.0,2007-05-01,S1,Teknik Elektro,FT,55,51-55,Bersertifikat,False
+238,P,1976-09-18,Tidak Terdefinisi,TUGAS BELAJAR,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Teknik Elektro,FT,50,41-50,Belum,False
+239,L,1990-01-08,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2024-05-01,S1,Kesehatan Masyarakat,FIKES,36,30-40,Belum,False
+240,P,1990-07-22,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,D3,Perbankan dan Keuangan,FEB,36,30-40,Belum,False
+241,L,1989-07-18,Tidak Terdefinisi,TUGAS BELAJAR,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2020-02-01,S1,Teknik Industri,FT,37,30-40,Belum,False
+242,L,1960-11-01,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2011.0,2001-01-01,S1,Manajemen,FISIP,66,>55,Bersertifikat,True
+243,L,1984-07-16,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2019.0,2022-01-01,S1,Manajemen,FISIP,42,41-50,Bersertifikat,False
+244,L,1980-02-15,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/a - Pembina,Lektor Kepala,Sertifikasi Dosen,2020.0,2022-10-01,S2,Akuntansi,FEB,46,41-50,Bersertifikat,False
+245,P,1989-06-05,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2022.0,2022-05-01,S1,Keperawatan,FIKES,37,30-40,Bersertifikat,False
+246,P,1989-05-01,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2023-06-05,S1,Farmasi,FIKES,37,30-40,Belum,False
+247,P,1981-12-16,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2022-08-01,S1,Kedokteran,FK,45,41-50,Belum,False
+248,P,1986-03-09,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2020.0,2023-05-03,Profesi,Pendidikan Profesi Ners,FK,40,30-40,Bersertifikat,False
+249,P,1996-03-21,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Ekonomi Pembangunan,FEB,30,<30,Belum,False
+250,L,1971-06-26,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,Non-Golongan,Lektor,Belum Sertifikasi,,2022-05-01,S2,Ilmu Politik,FISIP,55,51-55,Belum,False
+251,L,1961-10-22,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/e - Pembina Utama,Profesor,Sertifikasi Dosen,2018.0,2023-05-01,S2,Sains Biomedis,FIKES,65,>55,Bersertifikat,True
+252,L,1985-04-10,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Ilmu Komunikasi,FISIP,41,41-50,Belum,False
+253,L,1995-08-20,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Hukum,FH,31,30-40,Belum,False
+254,L,1994-08-22,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,D3,Sistem Informasi,FIK,32,30-40,Belum,False
+255,P,1985-01-02,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2017.0,2019-05-01,S1,Gizi,FIKES,41,41-50,Bersertifikat,False
+256,L,1988-07-14,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-05-03,S1,Fisioterapi,FIKES,38,30-40,Belum,False
+257,P,1990-07-16,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2020-03-31,S1,Hukum Bisnis,FH,36,30-40,Belum,False
+258,L,1986-07-15,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2019-04-21,S1,Hubungan Internasional,FH,40,30-40,Belum,False
+259,P,1993-08-25,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2024-04-01,S1,Kedokteran,FK,33,30-40,Belum,False
+260,P,1995-05-17,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-07-03,S1,Farmasi,FIKES,31,30-40,Belum,False
+261,P,1990-12-08,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2024-05-01,S1,Ilmu Komunikasi,FISIP,36,30-40,Belum,False
+262,P,1984-04-16,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2020-04-01,S1,Keperawatan,FIKES,42,41-50,Belum,False
+263,L,1990-06-26,RUMPUN ILMU KEAGAMAAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2022-02-01,S1,Hukum,FH,36,30-40,Belum,False
+264,P,1993-11-06,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Sistem Informasi,FIK,33,30-40,Belum,False
+265,P,1987-10-07,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2019.0,2019-10-01,S1,Ilmu Komunikasi,FISIP,39,30-40,Bersertifikat,False
+266,L,1968-03-11,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,58,>55,Belum,True
+267,P,1990-05-20,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-09-01,D3,Fisioterapi,FIKES,36,30-40,Belum,False
+268,L,1968-10-22,Tidak Terdefinisi,Aktif,POLRI,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,58,>55,Belum,True
+269,L,1965-02-17,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tidak Tetap,S3,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Ekonomi Pembangunan,FEB,61,>55,Belum,True
+270,P,1965-10-10,RUMPUN ILMU SOSIAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2017.0,2017-04-01,S1,Ilmu Komunikasi,FISIP,61,>55,Bersertifikat,True
+271,P,1978-01-27,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,48,41-50,Belum,False
+272,P,1966-05-18,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,60,>55,Belum,True
+273,L,1985-06-04,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,41,41-50,Belum,False
+274,L,1979-04-13,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,47,41-50,Belum,False
+275,P,1991-04-11,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-06-01,S1,Ekonomi Pembangunan,FEB,35,30-40,Belum,False
+276,P,1978-01-09,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,48,41-50,Belum,False
+277,L,1968-11-12,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,S3,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S2,Hukum,FH,58,>55,Belum,True
+278,P,1967-10-28,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2011.0,2016-08-01,S1,Ilmu Komunikasi,FISIP,59,>55,Bersertifikat,True
+279,L,1968-04-28,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,58,>55,Belum,True
+280,L,1964-11-10,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,62,>55,Belum,True
+281,L,1969-12-18,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S3,IV/a - Pembina,Lektor,Belum Sertifikasi,,2022-04-01,S2,Ilmu Politik,FISIP,57,>55,Belum,True
+282,P,1989-12-08,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2019.0,2023-07-03,S1,Farmasi,FIKES,37,30-40,Bersertifikat,False
+283,P,1959-12-14,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,67,>55,Belum,True
+284,P,1987-10-06,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2018.0,2022-07-01,S1,Hukum,FH,39,30-40,Bersertifikat,False
+285,L,1981-08-07,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,45,41-50,Belum,False
+286,P,1978-04-12,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Profesi,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,48,41-50,Belum,False
+287,L,1964-08-05,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,S3,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Sp-1,Radiologi,FK,62,>55,Belum,True
+288,P,1970-02-13,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,56,>55,Belum,True
+289,P,1991-03-07,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2022-12-01,S1,Akuntansi,FEB,35,30-40,Belum,False
+290,L,1998-01-04,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Teknik Perkapalan,FT,28,<30,Belum,False
+291,P,1960-08-16,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S3,IV/b - Pembina Tk. I,Lektor Kepala,Sertifikasi Dosen,,2010-01-01,S1,Manajemen,FISIP,66,>55,Bersertifikat,True
+292,P,1981-06-16,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2023-06-05,S1,Kedokteran,FK,45,41-50,Belum,False
+293,L,1983-12-03,RUMPUN ILMU TERAPAN,Aktif,TNI,Dosen Tidak Tetap,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2024-08-01,S1,Keperawatan,FIKES,43,41-50,Belum,False
+294,L,1968-10-30,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2023.0,2002-04-01,S1,Teknik Mesin,FT,58,>55,Bersertifikat,True
+295,P,1988-03-29,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2021.0,2022-07-01,S1,Sistem Informasi,FIK,38,30-40,Bersertifikat,False
+296,L,1987-04-01,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,39,30-40,Belum,False
+297,L,1970-06-02,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,IV/a - Pembina,Lektor Kepala,Sertifikasi Dosen,2010.0,2016-05-24,S3,Hukum,FH,56,>55,Bersertifikat,True
+298,P,1983-06-08,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2020-02-01,S1,Manajemen,FISIP,43,41-50,Belum,False
+299,L,1960-08-21,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/b - Pembina Tk. I,Lektor,Sertifikasi Dosen,2017.0,2013-02-01,S1,Manajemen,FISIP,66,>55,Bersertifikat,True
+300,L,1962-06-12,Tidak Terdefinisi,Aktif,NON ASN,Pengajar nondosen,S2,Non-Golongan,Lektor,Belum Sertifikasi,,1993-09-01,S1,Informatika,FIK,64,>55,Belum,True
+301,P,1992-02-18,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2021.0,2022-01-01,S1,Gizi,FIKES,34,30-40,Bersertifikat,False
+302,P,1992-03-01,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2023-05-03,S1,Teknik Industri,FT,34,30-40,Bersertifikat,False
+303,L,1985-02-27,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2017.0,2016-08-01,S1,Teknik Mesin,FT,41,41-50,Bersertifikat,False
+304,P,1973-01-06,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor Kepala,Sertifikasi Dosen,2012.0,2023-12-01,S2,Ilmu Komunikasi,FISIP,53,51-55,Bersertifikat,False
+305,P,1984-09-13,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,IV/a - Pembina,Lektor Kepala,Sertifikasi Dosen,2016.0,2023-08-01,S2,Ilmu Komunikasi,FISIP,42,41-50,Bersertifikat,False
+306,P,1992-04-21,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2023-11-01,S1,Kedokteran,FK,34,30-40,Belum,False
+307,P,1998-03-05,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Teknik Elektro,FT,28,<30,Belum,False
+308,P,1989-12-27,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Keperawatan,FIKES,36,30-40,Belum,False
+309,L,1968-11-30,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,58,>55,Belum,True
+310,L,1964-10-23,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S3,IV/b - Pembina Tk. I,Lektor,Belum Sertifikasi,,2020-07-01,S1,Keperawatan,FIKES,62,>55,Belum,True
+311,L,1991-12-12,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Kesehatan Masyarakat,FIKES,35,30-40,Belum,False
+312,P,1974-03-12,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2019.0,2005-04-01,S2,Akuntansi,FEB,52,51-55,Bersertifikat,False
+313,P,1982-10-15,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2012-04-01,S1,Akuntansi,FEB,44,41-50,Belum,False
+314,L,1994-04-19,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,Non-Golongan,Lektor,Belum Sertifikasi,,2022-10-11,S1,Teknik Perkapalan,FT,32,30-40,Belum,False
+315,P,1990-05-25,RUMPUN ILMU FORMAL,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2022-01-01,S1,Informatika,FIK,36,30-40,Bersertifikat,False
+316,P,1970-10-27,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,56,>55,Belum,True
+317,P,1990-06-21,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,36,30-40,Belum,False
+318,P,1984-10-20,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2015.0,2016-01-01,S1,Gizi,FIKES,42,41-50,Bersertifikat,False
+319,L,1978-01-11,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,48,41-50,Belum,False
+320,P,1974-09-10,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2017.0,2021-01-01,S1,Teknik Perkapalan,FT,52,51-55,Bersertifikat,False
+321,L,1969-10-05,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,57,>55,Belum,True
+322,P,1995-07-26,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2024.0,2022-03-01,S1,Kedokteran,FK,31,30-40,Bersertifikat,False
+323,L,1993-11-14,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2021-02-01,S1,Teknik Elektro,FT,33,30-40,Belum,False
+324,L,1958-07-12,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/e - Pembina Utama,Profesor,Sertifikasi Dosen,2017.0,2018-01-01,S3,Hukum,FH,68,>55,Bersertifikat,True
+325,P,1983-10-20,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S3,III/c - Penata,Belum Ada,Belum Sertifikasi,,,S1,Teknik Industri,FT,43,41-50,Belum,False
+326,P,1981-03-29,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,45,41-50,Belum,False
+327,L,1986-07-24,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Profesi,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,40,30-40,Belum,False
+328,L,1988-05-02,RUMPUN ILMU FORMAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2017.0,2018-10-01,S1,Informatika,FIK,38,30-40,Bersertifikat,False
+329,L,1975-04-14,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Sp-1,Radiologi,FK,51,51-55,Belum,False
+330,P,1984-02-15,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2022-09-01,S1,Keperawatan,FIKES,42,41-50,Bersertifikat,False
+331,L,1973-12-13,Tidak Terdefinisi,Aktif,NON ASN,Pengajar nondosen,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Keperawatan,FIKES,53,51-55,Belum,False
+332,L,1971-10-15,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,55,51-55,Belum,False
+333,P,1965-02-26,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Fisioterapi,FIKES,61,>55,Belum,True
+334,P,1994-04-26,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Farmasi,FIKES,32,30-40,Belum,False
+335,L,1971-02-21,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,55,51-55,Belum,False
+336,P,1970-05-21,RUMPUN ILMU FORMAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2016.0,2023-06-05,S1,Sistem Informasi,FIK,56,>55,Bersertifikat,True
+337,L,1992-05-25,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,34,30-40,Belum,False
+338,L,1977-07-06,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Profesor,Sertifikasi Dosen,2017.0,2022-10-01,S2,Kesehatan Masyarakat,FIKES,49,41-50,Bersertifikat,False
+339,P,1991-04-11,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2020.0,2021-02-01,S1,Manajemen,FISIP,35,30-40,Bersertifikat,False
+340,L,1992-09-10,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S3,III/c - Penata,Belum Ada,Belum Sertifikasi,,,S1,Teknik Mesin,FT,34,30-40,Belum,False
+341,L,1987-03-02,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2024-10-01,S2,Ilmu Komunikasi,FISIP,39,30-40,Belum,False
+342,L,1984-02-02,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2021.0,2016-08-01,S1,Akuntansi,FEB,42,41-50,Bersertifikat,False
+343,L,1975-08-12,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Belum Sertifikasi,,2023-05-03,S1,Gizi,FIKES,51,51-55,Belum,False
+344,P,1967-04-12,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2014.0,2020-08-01,S1,Keperawatan,FIKES,59,>55,Bersertifikat,True
+345,P,1993-04-21,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Kesehatan Masyarakat,FIKES,33,30-40,Belum,False
+346,P,1991-10-19,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Manajemen,FISIP,35,30-40,Belum,False
+347,L,1960-05-02,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/c - Pembina Utama Muda,Profesor,Sertifikasi Dosen,2018.0,2024-12-01,S3,Hukum,FH,66,>55,Bersertifikat,True
+348,L,1993-12-04,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Teknik Industri,FT,33,30-40,Belum,False
+349,P,1998-01-27,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Teknik Industri,FT,28,<30,Belum,False
+350,L,1975-07-01,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor Kepala,Sertifikasi Dosen,2011.0,2024-09-01,S1,Akuntansi,FEB,51,51-55,Bersertifikat,False
+351,L,1960-01-21,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S3,Non-Golongan,Lektor,Belum Sertifikasi,,2002-12-31,S1,Hukum,FH,66,>55,Belum,True
+352,P,1978-11-03,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2022-10-01,S1,Teknik Elektro,FT,48,41-50,Belum,False
+353,P,1969-12-16,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,IV/a - Pembina,Lektor Kepala,Sertifikasi Dosen,2009.0,2009-12-01,S1,Farmasi,FIKES,57,>55,Bersertifikat,True
+354,L,1994-10-07,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2024-05-01,S1,Informatika,FIK,32,30-40,Belum,False
+355,L,1969-06-15,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-07-01,S1,Kedokteran,FK,57,>55,Belum,True
+356,L,1984-07-13,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Sistem Informasi,FIK,42,41-50,Belum,False
+357,L,1974-06-06,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2013.0,2022-03-01,S1,Akuntansi,FEB,52,51-55,Bersertifikat,False
+358,L,1986-10-30,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2023-07-03,S1,Teknik Mesin,FT,40,30-40,Belum,False
+359,P,1981-01-29,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2016.0,2016-01-01,D3,Keperawatan,FIKES,45,41-50,Bersertifikat,False
+360,L,1978-04-28,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,48,41-50,Belum,False
+361,L,1970-11-01,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,S3,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,56,>55,Belum,True
+362,P,1971-10-13,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,55,51-55,Belum,False
+363,L,1972-06-10,RUMPUN ILMU TERAPAN,Aktif,TNI,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,54,51-55,Belum,False
+364,P,1984-03-13,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2022.0,2025-01-01,S1,Akuntansi,FEB,42,41-50,Bersertifikat,False
+365,L,1965-11-25,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,61,>55,Belum,True
+366,P,1973-05-05,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2016.0,2023-06-05,S1,Kedokteran,FK,53,51-55,Bersertifikat,False
+367,L,1987-12-03,RUMPUN ILMU FORMAL,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2018-08-01,S1,Informatika,FIK,39,30-40,Belum,False
+368,P,1961-07-20,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2015.0,2001-01-01,S1,Manajemen,FISIP,65,>55,Bersertifikat,True
+369,L,1968-03-21,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2015.0,2013-10-01,D3,Keperawatan,FIKES,58,>55,Bersertifikat,True
+370,P,1984-07-30,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,42,41-50,Belum,False
+371,P,1981-05-19,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2019.0,2020-03-01,S1,Akuntansi,FEB,45,41-50,Bersertifikat,False
+372,P,1974-02-21,RUMPUN ILMU FORMAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2012.0,2018-04-01,S1,Sistem Informasi,FIK,52,51-55,Bersertifikat,False
+373,P,1978-05-27,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2019.0,2021-05-01,S1,Manajemen,FISIP,48,41-50,Bersertifikat,False
+374,P,1991-05-11,Tidak Terdefinisi,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2021.0,2022-12-01,S1,Kesehatan Masyarakat,FIKES,35,30-40,Bersertifikat,False
+375,P,1966-01-02,RUMPUN ILMU ALAM,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,IV/b - Pembina Tk. I,Lektor Kepala,Sertifikasi Dosen,,2019-01-01,S1,Kedokteran,FK,60,>55,Bersertifikat,True
+376,P,1978-11-06,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2015.0,2018-04-01,D3,Keperawatan,FIKES,48,41-50,Bersertifikat,False
+377,P,1985-07-02,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2024-09-01,S1,Teknik Mesin,FT,41,41-50,Belum,False
+378,L,1973-01-26,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,53,51-55,Belum,False
+379,L,1984-04-20,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,42,41-50,Belum,False
+380,L,1990-03-11,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2024.0,2023-05-03,S1,Hukum,FH,36,30-40,Bersertifikat,False
+381,L,1989-08-09,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,37,30-40,Belum,False
+382,P,1985-10-19,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor Kepala,Sertifikasi Dosen,2017.0,2024-09-01,S1,Kesehatan Masyarakat,FIKES,41,41-50,Bersertifikat,False
+383,P,1982-04-27,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,44,41-50,Belum,False
+384,P,1970-12-19,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,56,>55,Belum,True
+385,P,1985-10-16,Tidak Terdefinisi,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2020-11-01,S1,Kesehatan Masyarakat,FIKES,41,41-50,Belum,False
+386,P,1980-07-24,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,46,41-50,Belum,False
+387,L,1988-11-29,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,38,30-40,Belum,False
+388,L,1980-09-09,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,46,41-50,Belum,False
+389,P,1982-02-27,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2015.0,2018-04-01,D3,Keperawatan,FIKES,44,41-50,Bersertifikat,False
+390,L,1981-11-09,RUMPUN ILMU FORMAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2016.0,2018-10-01,S1,Informatika,FIK,45,41-50,Bersertifikat,False
+391,L,1984-06-03,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2019-09-01,S1,Informatika,FIK,42,41-50,Belum,False
+392,P,1987-07-04,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,39,30-40,Belum,False
+393,P,1993-06-21,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-05-03,S1,Fisioterapi,FIKES,33,30-40,Belum,False
+394,L,1970-08-25,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2011.0,2014-12-01,S2,Kesehatan Masyarakat,FIKES,56,>55,Bersertifikat,True
+395,P,1976-06-13,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2018-08-01,S1,Kedokteran,FK,50,41-50,Belum,False
+396,L,1967-10-09,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2017.0,2018-08-01,S1,Teknik Perkapalan,FT,59,>55,Bersertifikat,True
+397,L,1990-07-17,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2018-11-01,S1,Teknik Industri,FT,36,30-40,Belum,False
+398,P,1989-12-17,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2024.0,2019-09-01,S1,Teknik Industri,FT,37,30-40,Bersertifikat,False
+399,P,1969-11-16,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2024-01-02,S1,Manajemen,FISIP,57,>55,Belum,True
+400,P,1990-08-30,RUMPUN ILMU ALAM,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-05-01,S1,Biologi,FIKES,36,30-40,Belum,False
+401,L,1988-08-09,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2023-05-03,D3,Fisioterapi,FIKES,38,30-40,Belum,False
+402,P,1965-11-27,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2009.0,2014-03-01,S2,Sains Biomedis,FIKES,61,>55,Bersertifikat,True
+403,P,1970-01-31,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,IV/a - Pembina,Lektor Kepala,Sertifikasi Dosen,2019.0,2023-08-01,S1,Ilmu Komunikasi,FISIP,56,>55,Bersertifikat,True
+404,P,1992-11-17,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2024-06-01,D3,Fisioterapi,FIKES,34,30-40,Belum,False
+405,P,1991-11-23,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Ekonomi Pembangunan,FEB,35,30-40,Belum,False
+406,P,1991-02-27,RUMPUN ILMU SOSIAL,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2021.0,2022-09-01,S1,Ekonomi Pembangunan,FEB,35,30-40,Bersertifikat,False
+407,P,1962-01-30,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/e - Pembina Utama,Lektor,Belum Sertifikasi,,1997-09-01,S1,Hukum Bisnis,FH,64,>55,Belum,True
+408,P,1969-01-12,RUMPUN ILMU SOSIAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2015.0,2009-10-17,S1,Hubungan Internasional,FH,57,>55,Bersertifikat,True
+409,L,1982-04-23,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,44,41-50,Belum,False
+410,L,1981-11-15,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,45,41-50,Belum,False
+411,L,1996-02-04,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-08-01,S1,Hubungan Internasional,FH,30,<30,Belum,False
+412,P,1982-05-18,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-01-01,S1,Hukum,FH,44,41-50,Belum,False
+413,L,1988-10-12,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2017.0,2022-07-01,S1,Hukum,FH,38,30-40,Bersertifikat,False
+414,P,1989-09-16,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Farmasi,FIKES,37,30-40,Belum,False
+415,L,1970-10-18,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2012.0,2017-11-01,D3,Akuntansi,FEB,56,>55,Bersertifikat,True
+416,L,1985-12-11,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-04-01,S1,Ilmu Komunikasi,FISIP,41,41-50,Belum,False
+417,P,1989-02-06,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2021.0,2021-06-01,S1,Ilmu Komunikasi,FISIP,37,30-40,Bersertifikat,False
+418,P,1982-07-04,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2018.0,2017-11-01,S2,Manajemen,FISIP,44,41-50,Bersertifikat,False
+419,P,1990-10-23,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2023-05-03,D3,Fisioterapi,FIKES,36,30-40,Bersertifikat,False
+420,P,1975-09-27,RUMPUN ILMU SOSIAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2014.0,2019-12-01,D3,Akuntansi,FEB,51,51-55,Bersertifikat,False
+421,P,1984-12-18,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2010-09-01,Profesi,Pendidikan Profesi Ners,FK,42,41-50,Belum,False
+422,P,1984-05-03,Tidak Terdefinisi,CUTI,NON ASN,Dosen Tidak Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2022-08-01,S1,Ilmu Komunikasi,FISIP,42,41-50,Belum,False
+423,P,1991-01-15,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2021.0,2022-08-31,S1,Gizi,FIKES,35,30-40,Bersertifikat,False
+424,P,1977-05-13,Tidak Terdefinisi,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2016.0,2020-07-01,D3,Akuntansi,FEB,49,41-50,Bersertifikat,False
+425,L,1975-04-18,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,51,51-55,Belum,False
+426,P,1982-12-10,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2020.0,2021-07-01,Profesi,Pendidikan Profesi Ners,FK,44,41-50,Bersertifikat,False
+427,L,1987-05-22,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,39,30-40,Belum,False
+428,L,1977-03-14,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,49,41-50,Belum,False
+429,L,1992-08-04,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2020-06-01,S1,Ekonomi Syariah,FEB,34,30-40,Bersertifikat,False
+430,L,1971-06-07,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2024.0,2023-09-01,S1,Teknik Elektro,FT,55,51-55,Bersertifikat,False
+431,L,1985-08-17,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,Non-Golongan,Lektor,Belum Sertifikasi,,2022-09-01,S1,Sains Informasi,FISIP,41,41-50,Belum,False
+432,P,1977-11-27,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,49,41-50,Belum,False
+433,P,1962-07-15,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2015.0,2001-01-01,S1,Ilmu Komunikasi,FISIP,64,>55,Bersertifikat,True
+434,P,1992-03-31,RUMPUN ILMU FORMAL,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2022-07-01,D3,Sistem Informasi,FIK,34,30-40,Bersertifikat,False
+435,L,1980-04-20,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/a - Pembina,Lektor Kepala,Sertifikasi Dosen,2020.0,2022-06-01,D3,Akuntansi,FEB,46,41-50,Bersertifikat,False
+436,P,1976-11-12,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2013.0,2018-04-01,Profesi,Pendidikan Profesi Ners,FK,50,41-50,Bersertifikat,False
+437,L,1970-10-19,RUMPUN ILMU FORMAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2019.0,2018-07-01,S1,Sistem Informasi,FIK,56,>55,Bersertifikat,True
+438,L,1980-08-20,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2014.0,2017-06-01,S1,Teknik Mesin,FT,46,41-50,Bersertifikat,False
+439,L,1962-03-04,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor Kepala,Sertifikasi Dosen,2020.0,2023-10-01,S2,Hukum,FH,64,>55,Bersertifikat,True
+440,P,1990-07-08,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2016.0,2018-08-01,S1,Kesehatan Masyarakat,FIKES,36,30-40,Bersertifikat,False
+441,L,1957-09-11,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/e - Pembina Utama,Profesor,Sertifikasi Dosen,2018.0,2022-08-01,S3,Hukum,FH,69,>55,Bersertifikat,True
+442,L,1993-03-06,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Manajemen,FISIP,33,30-40,Belum,False
+443,P,1997-08-17,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Akuntansi,FEB,29,<30,Belum,False
+444,L,1989-12-15,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,Sp-1,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,37,30-40,Belum,False
+445,P,1991-11-02,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Kesehatan Masyarakat,FIKES,35,30-40,Belum,False
+446,P,1997-11-10,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Akuntansi,FEB,29,<30,Belum,False
+447,P,1992-03-10,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2023-05-03,D3,Keperawatan,FIKES,34,30-40,Bersertifikat,False
+448,P,1985-06-22,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,41,41-50,Belum,False
+449,P,1980-03-31,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/b - Pembina Tk. I,Lektor Kepala,Sertifikasi Dosen,2011.0,2019-10-01,S2,Akuntansi,FEB,46,41-50,Bersertifikat,False
+450,P,1987-07-27,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2024-11-01,S1,Kedokteran,FK,39,30-40,Belum,False
+451,P,1975-10-09,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,51,51-55,Belum,False
+452,P,1961-03-16,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,65,>55,Belum,True
+453,L,1989-05-22,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kesehatan Masyarakat,FIKES,37,30-40,Belum,False
+454,L,1961-11-14,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2016.0,2018-04-01,S1,Teknik Perkapalan,FT,65,>55,Bersertifikat,True
+455,P,1968-10-31,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2012.0,2011-08-01,S1,Biologi,FIKES,58,>55,Bersertifikat,True
+456,P,1968-06-08,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/a - Pembina,Lektor,Sertifikasi Dosen,2020.0,2020-04-01,S2,Hukum,FH,58,>55,Bersertifikat,True
+457,L,1966-03-06,Tidak Terdefinisi,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor,Belum Sertifikasi,,2023-06-01,S2,Hukum,FH,60,>55,Belum,True
+458,L,1976-02-06,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,50,41-50,Belum,False
+459,P,1974-10-06,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,52,51-55,Belum,False
+460,L,1966-06-08,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,60,>55,Belum,True
+461,L,1966-07-17,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Lektor,Belum Sertifikasi,,2021-03-01,S2,Sains Biomedis,FIKES,60,>55,Belum,True
+462,P,1988-05-14,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,38,30-40,Belum,False
+463,P,1966-10-03,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/c - Pembina Utama Muda,Lektor Kepala,Sertifikasi Dosen,2015.0,2012-10-01,S2,Kesehatan Masyarakat,FIKES,60,>55,Bersertifikat,True
+464,P,1983-07-29,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,43,41-50,Belum,False
+465,P,1987-11-09,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2020.0,2020-02-01,S1,Sistem Informasi,FIK,39,30-40,Bersertifikat,False
+466,P,1983-01-19,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,43,41-50,Belum,False
+467,L,1978-07-07,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor,Belum Sertifikasi,,2023-05-01,S1,Sistem Informasi,FIK,48,41-50,Belum,False
+468,L,1966-06-04,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,60,>55,Belum,True
+469,L,1976-03-03,RUMPUN ILMU TERAPAN,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,50,41-50,Belum,False
+470,P,1983-06-16,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2016.0,2018-04-01,S1,Keperawatan,FIKES,43,41-50,Bersertifikat,False
+471,L,1982-04-21,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,Sp-1,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,1970-01-01,S1,Kedokteran,FK,44,41-50,Belum,False
+472,P,1982-04-27,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2014.0,2023-06-05,S1,Kedokteran,FK,44,41-50,Bersertifikat,False
+473,L,1962-04-21,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2012.0,2018-08-01,S1,Manajemen,FISIP,64,>55,Bersertifikat,True
+474,L,1970-02-07,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,56,>55,Belum,True
+475,P,1985-09-30,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,Sp-1,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2016.0,2020-08-01,S1,Kedokteran,FK,41,41-50,Bersertifikat,False
+476,L,1967-01-20,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,59,>55,Belum,True
+477,P,1970-11-12,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2011.0,2018-04-01,S1,Kesehatan Masyarakat,FIKES,56,>55,Bersertifikat,True
+478,P,1974-12-24,Tidak Terdefinisi,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/a - Penata Muda,Lektor,Sertifikasi Dosen,2017.0,2018-04-01,S1,Kedokteran,FK,51,51-55,Bersertifikat,False
+479,P,1974-09-08,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,Sp-1,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2024.0,2022-11-01,S1,Kedokteran,FK,52,51-55,Bersertifikat,False
+480,P,1975-07-07,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,Sp-1,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2022.0,2020-10-01,S1,Kedokteran,FK,51,51-55,Bersertifikat,False
+481,L,1993-01-01,Tidak Terdefinisi,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2021.0,2022-01-01,S1,Akuntansi,FEB,33,30-40,Bersertifikat,False
+482,P,1967-01-10,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/b - Pembina Tk. I,Lektor Kepala,Sertifikasi Dosen,,2015-09-01,S1,Teknik Industri,FT,59,>55,Bersertifikat,True
+483,L,1983-08-09,RUMPUN ILMU FORMAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2017.0,2018-10-01,S1,Informatika,FIK,43,41-50,Bersertifikat,False
+484,L,1959-02-17,Tidak Terdefinisi,Aktif,NON ASN,Pengajar nondosen,S2,Non-Golongan,Lektor,Belum Sertifikasi,,1970-01-01,S1,Informatika,FIK,67,>55,Belum,True
+485,L,1963-12-19,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,IV/a - Pembina,Lektor Kepala,Sertifikasi Dosen,2020.0,2023-12-01,S2,Hukum,FH,63,>55,Bersertifikat,True
+486,L,1973-06-01,Tidak Terdefinisi,Aktif,POLRI,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,53,51-55,Belum,False
+487,P,1972-05-16,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,54,51-55,Belum,False
+488,P,1981-09-10,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,45,41-50,Belum,False
+489,L,1983-12-10,RUMPUN ILMU TERAPAN,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,S2,III/d - Penata Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Akuntansi,FEB,43,41-50,Belum,False
+490,P,1995-01-10,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-01-01,D3,Fisioterapi,FIKES,31,30-40,Belum,False
+491,P,1990-07-23,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2023-05-03,D3,Keperawatan,FIKES,36,30-40,Bersertifikat,False
+492,P,1964-06-30,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,62,>55,Belum,True
+493,P,1993-02-10,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Belum Sertifikasi,,2023-07-03,S1,Sistem Informasi,FIK,33,30-40,Belum,False
+494,L,1987-03-27,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2021-03-01,S1,Gizi,FIKES,39,30-40,Belum,False
+495,P,1988-02-13,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,38,30-40,Belum,False
+496,P,1980-07-19,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,46,41-50,Belum,False
+497,P,1968-06-27,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,58,>55,Belum,True
+498,L,1981-07-23,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,45,41-50,Belum,False
+499,P,1988-12-17,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,38,30-40,Belum,False
+500,L,1968-02-03,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Sp-1,Radiologi,FK,58,>55,Belum,True
+501,L,1993-11-05,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Hukum,FH,33,30-40,Belum,False
+502,P,1988-06-09,RUMPUN ILMU HUMANIORA,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-04-01,S1,Hubungan Internasional,FH,38,30-40,Belum,False
+503,L,1979-06-30,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor,Belum Sertifikasi,,2022-12-01,S2,Hubungan Internasional,FH,47,41-50,Belum,False
+504,P,1984-07-22,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2023-06-05,S1,Farmasi,FIKES,42,41-50,Belum,False
+505,P,1992-06-18,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Ekonomi Syariah,FEB,34,30-40,Belum,False
+506,P,1993-08-20,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-06-01,S1,Farmasi,FIKES,33,30-40,Belum,False
+507,P,1993-10-23,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Ekonomi Syariah,FEB,33,30-40,Belum,False
+508,P,1989-06-07,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Hukum,FH,37,30-40,Belum,False
+509,P,1989-01-28,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2019.0,2022-12-01,S1,Ilmu Komunikasi,FISIP,37,30-40,Bersertifikat,False
+510,L,1991-10-08,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Hubungan Internasional,FH,35,30-40,Belum,False
+511,L,1963-08-29,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/e - Pembina Utama,Lektor,Belum Sertifikasi,,2023-07-10,S1,Akuntansi,FEB,63,>55,Belum,True
+512,L,1986-01-27,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S3,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2023.0,2022-07-01,S1,Hukum,FH,40,30-40,Bersertifikat,False
+513,P,1988-01-17,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2024.0,2021-04-01,S1,Akuntansi,FEB,38,30-40,Bersertifikat,False
+514,P,1993-05-07,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,NON ASN,Dosen Tidak Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2019-03-01,S1,Hukum,FH,33,30-40,Belum,False
+515,P,1992-08-30,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-10-01,S1,Hukum,FH,34,30-40,Belum,False
+516,L,1978-05-11,RUMPUN ILMU FORMAL,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,S3,Non-Golongan,Lektor,Belum Sertifikasi,,2023-07-03,S1,Sistem Informasi,FIK,48,41-50,Belum,False
+517,L,1992-10-18,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-08-01,S1,"Kajian Film, Televisi, dan Media",FISIP,34,30-40,Belum,False
+518,L,1982-01-13,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor Kepala,Sertifikasi Dosen,2020.0,2023-08-01,D3,Akuntansi,FEB,44,41-50,Bersertifikat,False
+519,L,1991-01-03,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-07-03,S1,Ekonomi Syariah,FEB,35,30-40,Belum,False
+520,P,1987-03-11,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2019.0,2017-11-01,S1,Ilmu Komunikasi,FISIP,39,30-40,Bersertifikat,False
+521,L,1966-02-14,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2012.0,2017-04-01,D3,Perbankan dan Keuangan,FEB,60,>55,Bersertifikat,True
+522,P,1986-12-10,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2017.0,2020-03-01,D3,Akuntansi,FEB,40,30-40,Bersertifikat,False
+523,P,1988-06-24,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2022.0,2023-07-03,S1,Ilmu Komunikasi,FISIP,38,30-40,Bersertifikat,False
+524,L,1989-01-02,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2024.0,2020-09-01,S1,Hubungan Internasional,FH,37,30-40,Bersertifikat,False
+525,P,1984-12-05,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2017.0,2020-07-01,S1,Hukum,FH,42,41-50,Bersertifikat,False
+526,L,1980-01-30,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2015.0,2020-05-01,S1,Hukum,FH,46,41-50,Bersertifikat,False
+527,P,1992-07-19,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2022-03-01,S1,Hubungan Internasional,FH,34,30-40,Belum,False
+528,P,1998-03-30,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Farmasi,FIKES,28,<30,Belum,False
+529,P,1965-02-05,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/a - Penata Muda,Asisten Ahli,Sertifikasi Dosen,2018.0,2010-09-01,Profesi,Pendidikan Profesi Ners,FK,61,>55,Bersertifikat,True
+530,L,1976-04-23,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2021.0,2018-04-01,D3,Fisioterapi,FIKES,50,41-50,Bersertifikat,False
+531,L,1989-10-19,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2021.0,2020-06-01,S1,Hukum,FH,37,30-40,Bersertifikat,False
+532,P,1994-11-16,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-07-03,S1,Ilmu Komunikasi,FISIP,32,30-40,Belum,False
+533,P,1972-10-26,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2012.0,2022-12-01,S1,Hukum,FH,54,51-55,Bersertifikat,False
+534,P,1977-01-02,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2020-03-01,S1,Gizi,FIKES,49,41-50,Belum,False
+535,L,1983-05-11,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Hubungan Internasional,FH,43,41-50,Belum,False
+536,L,1990-12-17,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2019-11-01,S1,Kesehatan Masyarakat,FIKES,36,30-40,Belum,False
+537,P,1985-08-19,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor Kepala,Sertifikasi Dosen,2015.0,2023-05-01,S1,Kesehatan Masyarakat,FIKES,41,41-50,Bersertifikat,False
+538,L,1985-08-22,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2024.0,2025-01-01,S1,Akuntansi,FEB,41,41-50,Bersertifikat,False
+539,P,1995-10-04,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Manajemen,FISIP,31,30-40,Belum,False
+540,P,1986-11-23,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-08-01,S1,Manajemen,FISIP,40,30-40,Belum,False
+541,L,1991-02-05,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Manajemen,FISIP,35,30-40,Belum,False
+542,L,1990-05-07,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,D3,Keperawatan,FIKES,36,30-40,Belum,False
+543,P,1975-03-08,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2019.0,2020-09-01,S1,Kedokteran,FK,51,51-55,Bersertifikat,False
+544,P,1994-08-14,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Keperawatan,FIKES,32,30-40,Belum,False
+545,P,1990-03-29,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2023.0,2022-10-01,D3,Keperawatan,FIKES,36,30-40,Bersertifikat,False
+546,L,1991-11-03,RUMPUN ILMU FORMAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-07-01,S1,Sains Data,FIK,35,30-40,Belum,False
+547,P,1984-09-06,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2017.0,2018-04-01,D3,Keperawatan,FIKES,42,41-50,Bersertifikat,False
+548,L,1987-06-26,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,Non-Golongan,Lektor,Belum Sertifikasi,,2022-10-01,S1,Teknik Elektro,FT,39,30-40,Belum,False
+549,L,1984-06-28,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-10-01,S1,Teknik Elektro,FT,42,41-50,Belum,False
+550,L,1989-01-29,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2024-05-01,S1,Informatika,FIK,37,30-40,Belum,False
+551,P,1958-12-22,Tidak Terdefinisi,Aktif,POLRI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,67,>55,Belum,True
+552,L,1981-06-11,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2021-06-01,S1,Teknik Mesin,FT,45,41-50,Belum,False
+553,L,1994-01-20,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2023-05-03,S1,Sains Informasi,FISIP,32,30-40,Belum,False
+554,P,1984-12-10,Tidak Terdefinisi,Aktif,NON ASN,Pengajar nondosen,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,42,41-50,Belum,False
+555,L,1967-03-10,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,59,>55,Belum,True
+556,P,1976-04-10,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2013.0,2015-01-01,S2,Kesehatan Masyarakat,FIKES,50,41-50,Bersertifikat,False
+557,P,1965-01-01,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/e - Pembina Utama,Profesor,Belum Sertifikasi,,1990-10-01,S1,Gizi,FIKES,61,>55,Belum,True
+558,P,1993-03-15,RUMPUN ILMU FORMAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2020.0,2023-05-03,S1,Sistem Informasi,FIK,33,30-40,Bersertifikat,False
+559,P,1992-01-27,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2020-08-01,S1,Kesehatan Masyarakat,FIKES,34,30-40,Bersertifikat,False
+560,P,1975-07-05,RUMPUN ILMU TERAPAN,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,51,51-55,Belum,False
+561,L,1953-08-25,Tidak Terdefinisi,Aktif,NON ASN,Pengajar nondosen,Sp-1,Non-Golongan,Lektor Kepala,Belum Sertifikasi,,2009-04-24,Profesi,Pendidikan Profesi Dokter,FK,73,>55,Belum,True
+562,P,1975-04-27,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,S3,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Akuntansi,FEB,51,51-55,Belum,False
+563,P,1980-10-18,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S3,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Gizi,FIKES,46,41-50,Belum,False
+564,P,1989-01-26,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Belum Sertifikasi,,2024-11-01,S1,Keperawatan,FIKES,37,30-40,Belum,False
+565,L,1962-05-30,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2016.0,2000-12-01,S1,Sistem Informasi,FIK,64,>55,Bersertifikat,True
+566,P,1965-05-22,Tidak Terdefinisi,Aktif,POLRI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,61,>55,Belum,True
+567,L,1973-09-27,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,53,51-55,Belum,False
+568,L,1965-12-13,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,61,>55,Belum,True
+569,P,1974-08-25,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,52,51-55,Belum,False
+570,L,1968-06-02,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/d - Pembina Utama Madya,Profesor,Sertifikasi Dosen,2008.0,2024-12-01,S2,Ilmu Komunikasi,FISIP,58,>55,Bersertifikat,True
+571,P,1985-12-21,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2018.0,2020-03-01,S1,Gizi,FIKES,40,30-40,Bersertifikat,False
+572,P,1985-09-12,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2023-04-01,S1,Ilmu Politik,FISIP,41,41-50,Belum,False
+573,P,1985-04-27,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,41,41-50,Belum,False
+574,P,1973-02-19,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,S3,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,53,51-55,Belum,False
+575,P,1986-12-16,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,40,30-40,Belum,False
+576,P,1982-03-16,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,44,41-50,Belum,False
+577,L,1986-12-04,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2017.0,2018-10-01,S1,Informatika,FIK,40,30-40,Bersertifikat,False
+578,L,1973-01-11,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,53,51-55,Belum,False
+579,L,1964-10-24,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,62,>55,Belum,True
+580,P,1964-05-24,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,62,>55,Belum,True
+581,P,1962-12-11,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2018.0,2021-05-01,S1,Manajemen,FISIP,64,>55,Bersertifikat,True
+582,L,1964-05-17,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,62,>55,Belum,True
+583,P,1960-08-15,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,66,>55,Belum,True
+584,L,1968-05-09,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,58,>55,Belum,True
+585,P,1988-01-09,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2019.0,2023-05-03,S2,Kesehatan Masyarakat,FIKES,38,30-40,Bersertifikat,False
+586,L,1986-01-26,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,40,30-40,Belum,False
+587,P,1982-12-27,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2023-07-03,S1,Kedokteran,FK,43,41-50,Belum,False
+588,L,1987-02-12,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2021.0,2021-09-01,S1,Ilmu Politik,FISIP,39,30-40,Bersertifikat,False
+589,P,1974-07-30,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2016.0,2017-11-01,S1,Kedokteran,FK,52,51-55,Bersertifikat,False
+590,L,1960-12-19,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,66,>55,Belum,True
+591,P,1974-07-19,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,52,51-55,Belum,False
+592,P,1966-05-04,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor Kepala,Sertifikasi Dosen,2011.0,2020-08-01,S2,Sains Biomedis,FIKES,60,>55,Bersertifikat,True
+593,P,1991-01-04,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2021.0,2021-07-01,S1,Manajemen,FISIP,35,30-40,Bersertifikat,False
+594,L,1990-08-09,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2023-06-05,S1,Akuntansi,FEB,36,30-40,Bersertifikat,False
+595,P,1976-09-26,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2018.0,2023-06-05,S1,Kedokteran,FK,50,41-50,Bersertifikat,False
+596,P,1974-04-30,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S3,Non-Golongan,Lektor,Belum Sertifikasi,,2022-06-01,S1,Kedokteran,FK,52,51-55,Belum,False
+597,L,1983-11-06,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,43,41-50,Belum,False
+598,L,1982-09-01,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2022.0,2024-03-01,S1,Ilmu Komunikasi,FISIP,44,41-50,Bersertifikat,False
+599,L,1975-04-27,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2017.0,2020-06-01,S1,Akuntansi,FEB,51,51-55,Bersertifikat,False
+600,L,1982-08-09,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2022.0,2019-11-01,S1,Ilmu Komunikasi,FISIP,44,41-50,Bersertifikat,False
+601,P,1973-04-14,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Sp-1,Radiologi,FK,53,51-55,Belum,False
+602,P,1992-04-30,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,D3,Fisioterapi,FIKES,34,30-40,Belum,False
+603,L,1993-04-01,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,D3,Sistem Informasi,FIK,33,30-40,Belum,False
+604,L,1991-11-10,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,D3,Akuntansi,FEB,35,30-40,Belum,False
+605,P,1994-09-23,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-07-01,D3,Akuntansi,FEB,32,30-40,Belum,False
+606,P,1991-05-03,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Ners,FK,35,30-40,Belum,False
+607,L,1993-03-23,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-07-03,S1,Hukum,FH,33,30-40,Belum,False
+608,L,1975-05-26,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Asisten Ahli,Belum Sertifikasi,,2018-10-01,D3,Sistem Informasi,FIK,51,51-55,Belum,False
+609,L,1989-10-24,Tidak Terdefinisi,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2023-05-01,S1,Ilmu Komunikasi,FISIP,37,30-40,Bersertifikat,False
+610,L,1972-01-27,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2019.0,2018-10-01,S1,Hukum,FH,54,51-55,Bersertifikat,False
+611,L,1963-06-25,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/c - Pembina Utama Muda,Lektor Kepala,Sertifikasi Dosen,2008.0,2007-04-01,S1,Hukum,FH,63,>55,Bersertifikat,True
+612,L,1981-11-24,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-07-01,S1,Ekonomi Pembangunan,FEB,45,41-50,Belum,False
+613,L,1987-07-26,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-08-01,S1,"Kajian Film, Televisi, dan Media",FISIP,39,30-40,Belum,False
+614,P,1993-06-17,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-08-01,S1,"Kajian Film, Televisi, dan Media",FISIP,33,30-40,Belum,False
+615,L,1964-12-06,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2015.0,2001-01-01,D3,Perbankan dan Keuangan,FEB,62,>55,Bersertifikat,True
+616,P,1975-12-26,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2024.0,2020-02-01,S2,Ilmu Politik,FISIP,50,41-50,Bersertifikat,False
+617,L,1990-12-14,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2018.0,2019-07-01,S2,Ilmu Politik,FISIP,36,30-40,Bersertifikat,False
+618,P,1970-07-14,RUMPUN ILMU SOSIAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2021-05-01,S1,Ilmu Komunikasi,FISIP,56,>55,Belum,True
+619,L,1965-10-02,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,61,>55,Belum,True
+620,P,1962-09-02,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/b - Pembina Tk. I,Lektor Kepala,Belum Sertifikasi,,2005-07-01,D3,Sistem Informasi,FIK,64,>55,Belum,True
+621,L,1992-07-08,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2024.0,2023-05-01,S1,Hukum,FH,34,30-40,Bersertifikat,False
+622,L,1961-08-07,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/b - Pembina Tk. I,Lektor,Belum Sertifikasi,,2023-05-03,S1,Hukum,FH,65,>55,Belum,True
+623,L,1989-04-03,RUMPUN ILMU TERAPAN,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2018-04-01,D3,Fisioterapi,FIKES,37,30-40,Belum,False
+624,L,1980-04-05,RUMPUN ILMU SOSIAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2024.0,2011-08-01,S2,Hubungan Internasional,FH,46,41-50,Bersertifikat,False
+625,P,1961-03-18,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2011.0,2001-01-01,S1,Ekonomi Syariah,FEB,65,>55,Bersertifikat,True
+626,P,1988-01-19,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2021.0,2020-09-01,S1,Ilmu Komunikasi,FISIP,38,30-40,Bersertifikat,False
+627,P,1965-11-08,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2011.0,2000-01-01,D3,Perbankan dan Keuangan,FEB,61,>55,Bersertifikat,True
+628,P,1989-01-04,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-08-01,S1,"Kajian Film, Televisi, dan Media",FISIP,37,30-40,Belum,False
+629,L,1974-05-01,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,IV/a - Pembina,Lektor Kepala,Sertifikasi Dosen,2011.0,2014-12-01,S1,Ilmu Komunikasi,FISIP,52,51-55,Bersertifikat,False
+630,P,1965-07-08,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2012.0,2016-08-01,S1,Hukum,FH,61,>55,Bersertifikat,True
+631,L,1991-10-13,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2023-08-01,S1,Hukum,FH,35,30-40,Bersertifikat,False
+632,P,1992-07-19,RUMPUN ILMU HUMANIORA,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-07-03,S1,Hukum,FH,34,30-40,Belum,False
+633,L,1963-11-05,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2018.0,2020-07-01,S1,Hukum,FH,63,>55,Bersertifikat,True
+634,P,1975-05-31,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Lektor,Belum Sertifikasi,,2022-11-01,S1,Kedokteran,FK,51,51-55,Belum,False
+635,P,1982-05-02,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2024.0,2023-07-03,S1,Teknik Elektro,FT,44,41-50,Bersertifikat,False
+636,P,1998-09-09,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Sistem Informasi,FIK,28,<30,Belum,False
+637,P,1993-09-22,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Kesehatan Masyarakat,FIKES,33,30-40,Belum,False
+638,P,1992-05-03,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2022-08-01,S1,Akuntansi,FEB,34,30-40,Belum,False
+639,L,1983-07-17,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2023-12-01,S1,Kesehatan Masyarakat,FIKES,43,41-50,Belum,False
+640,P,1992-04-10,RUMPUN ILMU FORMAL,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2021-06-01,S1,Informatika,FIK,34,30-40,Belum,False
+641,P,1992-11-20,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2022.0,2022-11-01,S1,Teknik Elektro,FT,34,30-40,Bersertifikat,False
+642,P,1994-11-22,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Teknik Industri,FT,32,30-40,Belum,False
+643,P,1993-08-26,RUMPUN ILMU TERAPAN,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,33,30-40,Belum,False
+644,P,1992-01-01,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-05-03,S1,Keperawatan,FIKES,34,30-40,Belum,False
+645,P,1998-02-11,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Teknik Industri,FT,28,<30,Belum,False
+646,L,1993-12-17,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Teknik Mesin,FT,33,30-40,Belum,False
+647,P,1990-09-12,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Teknik Elektro,FT,36,30-40,Belum,False
+648,P,1989-09-19,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Teknik Industri,FT,37,30-40,Belum,False
+649,P,1992-06-17,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-07-03,S1,Sains Data,FIK,34,30-40,Belum,False
+650,P,1974-06-10,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2015.0,2018-04-01,S1,Fisioterapi,FIKES,52,51-55,Bersertifikat,False
+651,P,1980-06-08,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2016.0,2013-04-01,S1,Kedokteran,FK,46,41-50,Bersertifikat,False
+652,L,1966-03-19,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,60,>55,Belum,True
+653,L,1963-05-01,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Belum Sertifikasi,,2016-08-01,S2,Sains Biomedis,FIKES,63,>55,Belum,True
+654,P,1979-12-06,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2017.0,2016-01-01,S1,Manajemen,FISIP,47,41-50,Bersertifikat,False
+655,L,1981-03-12,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,45,41-50,Belum,False
+656,L,1974-03-02,RUMPUN ILMU FORMAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Sertifikasi Dosen,2018.0,2014-01-01,S1,Sistem Informasi,FIK,52,51-55,Bersertifikat,False
+657,P,1961-07-10,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2012.0,1998-11-01,S1,Manajemen,FISIP,65,>55,Bersertifikat,True
+658,L,1986-11-12,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Sains Informasi,FISIP,40,30-40,Belum,False
+659,L,1967-07-21,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,59,>55,Belum,True
+660,L,1962-05-23,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,64,>55,Belum,True
+661,L,1993-06-15,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2024-05-01,S1,Informatika,FIK,33,30-40,Belum,False
+662,P,1978-09-30,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,48,41-50,Belum,False
+663,L,1984-08-26,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2020.0,2021-06-01,S1,Ilmu Politik,FISIP,42,41-50,Bersertifikat,False
+664,L,1980-01-12,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,S3,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Manajemen,FISIP,46,41-50,Belum,False
+665,L,1970-05-03,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/a - Penata Muda,Lektor,Sertifikasi Dosen,2016.0,2023-07-03,S1,Kesehatan Masyarakat,FIKES,56,>55,Bersertifikat,True
+666,P,1982-04-07,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2023-04-01,S1,Ilmu Politik,FISIP,44,41-50,Belum,False
+667,L,1988-06-09,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2023-05-03,D3,Keperawatan,FIKES,38,30-40,Bersertifikat,False
+668,P,1976-02-15,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Belum Ada,Belum Sertifikasi,,,S1,Kedokteran,FK,50,41-50,Belum,False
+669,L,1972-12-19,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor Kepala,Sertifikasi Dosen,2010.0,2023-04-01,S1,Teknik Elektro,FT,54,51-55,Bersertifikat,False
+670,P,1964-06-26,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2011.0,2001-01-01,S1,Manajemen,FISIP,62,>55,Bersertifikat,True
+671,P,1987-09-21,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2021-04-01,S1,Akuntansi,FEB,39,30-40,Belum,False
+672,L,1993-09-16,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-08-01,S1,Manajemen,FISIP,33,30-40,Belum,False
+673,L,1973-07-01,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,S3,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Akuntansi,FEB,53,51-55,Belum,False
+674,P,1980-10-18,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2012.0,2013-08-01,S1,Kedokteran,FK,46,41-50,Bersertifikat,False
+675,L,1964-02-02,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/d - Pembina Utama Madya,Asisten Ahli,Belum Sertifikasi,,2024-01-15,S1,Manajemen,FISIP,62,>55,Belum,True
+676,L,1988-07-06,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,38,30-40,Belum,False
+677,L,1996-08-05,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Belum Sertifikasi,,2023-07-03,S1,Sains Data,FIK,30,<30,Belum,False
+678,P,1977-08-21,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S3,III/c - Penata,Lektor Kepala,Sertifikasi Dosen,2019.0,2023-08-01,S2,Sains Biomedis,FIKES,49,41-50,Bersertifikat,False
+679,P,1991-02-07,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Manajemen,FISIP,35,30-40,Belum,False
+680,P,1947-10-29,Tidak Terdefinisi,Aktif,NON ASN,Pengajar nondosen,S3,Non-Golongan,Profesor,Sertifikasi Dosen,2009.0,2010-04-30,S1,Kedokteran,FK,79,>55,Bersertifikat,True
+681,P,1988-05-15,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2018.0,2023-05-03,S1,Kesehatan Masyarakat,FIKES,38,30-40,Bersertifikat,False
+682,P,1993-08-20,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-05-03,S1,Fisioterapi,FIKES,33,30-40,Belum,False
+683,P,1993-11-07,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-06-05,S1,Informatika,FIK,33,30-40,Belum,False
+684,P,1988-10-21,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2023-07-03,S1,Gizi,FIKES,38,30-40,Belum,False
+685,L,1974-08-10,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2024-09-01,S1,Ilmu Politik,FISIP,52,51-55,Bersertifikat,False
+686,L,1984-08-28,RUMPUN ILMU FORMAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2023-08-01,S1,Sistem Informasi,FIK,42,41-50,Bersertifikat,False
+687,P,1971-05-31,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2016.0,2023-07-03,S1,Kedokteran,FK,55,51-55,Bersertifikat,False
+688,L,1987-07-10,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2018.0,2021-03-01,D3,Keperawatan,FIKES,39,30-40,Bersertifikat,False
+689,L,1968-08-24,Tidak Terdefinisi,Aktif,TNI,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,58,>55,Belum,True
+690,L,1969-11-22,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,57,>55,Belum,True
+691,P,1979-05-26,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,47,41-50,Belum,False
+692,P,1978-12-15,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,48,41-50,Belum,False
+693,P,1987-10-02,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,39,30-40,Belum,False
+694,P,1976-12-01,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-2,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,50,41-50,Belum,False
+695,L,1962-12-06,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2017-11-01,S2,Hukum,FH,64,>55,Bersertifikat,True
+696,L,1980-07-27,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,Sp-1,Non-Golongan,Belum Ada,Belum Sertifikasi,,,Profesi,Pendidikan Profesi Dokter,FK,46,41-50,Belum,False
+697,P,1967-04-25,RUMPUN ILMU TERAPAN,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,S3,IV/c - Pembina Utama Muda,Lektor,Sertifikasi Dosen,2019.0,2017-11-01,Profesi,Pendidikan Profesi Dokter,FK,59,>55,Bersertifikat,True
+698,L,1986-11-22,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2024.0,2022-06-01,S1,Ekonomi Syariah,FEB,40,30-40,Bersertifikat,False
+699,P,1994-01-24,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/b - Penata Muda Tk. I,Lektor,Sertifikasi Dosen,2023.0,2023-05-03,D3,Perbankan dan Keuangan,FEB,32,30-40,Bersertifikat,False
+700,L,1978-12-16,RUMPUN ILMU TERAPAN,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,S3,Non-Golongan,Lektor,Belum Sertifikasi,,2023-10-01,S1,Hukum,FH,48,41-50,Belum,False
+701,P,1998-05-03,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Hukum,FH,28,<30,Belum,False
+702,L,1978-12-27,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,Non-Golongan,Lektor,Belum Sertifikasi,,2022-03-01,S2,Ilmu Politik,FISIP,47,41-50,Belum,False
+703,L,1971-11-27,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2009.0,2007-04-01,D3,Perbankan dan Keuangan,FEB,55,51-55,Bersertifikat,False
+704,P,1981-03-31,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2020-06-01,D3,Perbankan dan Keuangan,FEB,45,41-50,Bersertifikat,False
+705,P,1997-03-30,Tidak Terdefinisi,Aktif,CPNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Belum Ada,Belum Sertifikasi,,,S1,Hukum Bisnis,FH,29,<30,Belum,False
+706,L,1987-01-02,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2023.0,2022-10-01,S1,Hukum Bisnis,FH,39,30-40,Bersertifikat,False
+707,P,1992-08-21,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2021.0,2020-09-01,S1,Hubungan Internasional,FH,34,30-40,Bersertifikat,False
+708,P,1992-12-22,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-07-03,S1,Hubungan Internasional,FH,33,30-40,Belum,False
+709,P,1993-03-20,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Lektor,Belum Sertifikasi,,2025-01-01,S1,Ekonomi Syariah,FEB,33,30-40,Belum,False
+710,L,1984-01-22,RUMPUN ILMU SOSIAL,TUGAS BELAJAR,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Belum Sertifikasi,,2022-04-01,S1,Hubungan Internasional,FH,42,41-50,Belum,False
+711,P,1994-08-25,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2024.0,2023-04-01,S1,Hukum,FH,32,30-40,Bersertifikat,False
+712,P,1993-07-13,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Sertifikasi Dosen,2020.0,2021-04-01,S1,Ekonomi Pembangunan,FEB,33,30-40,Bersertifikat,False
+713,P,1971-09-10,RUMPUN ILMU TERAPAN,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor Kepala,Sertifikasi Dosen,2009.0,2020-04-01,S2,Manajemen,FISIP,55,51-55,Bersertifikat,False
+714,P,1993-05-19,RUMPUN ILMU SOSIAL,Aktif,PNS,Dosen Tetap,S2,III/b - Penata Muda Tk. I,Asisten Ahli,Belum Sertifikasi,,2023-07-03,S1,Hubungan Internasional,FH,33,30-40,Belum,False
+715,P,1987-07-16,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2024-04-01,S1,Farmasi,FIKES,39,30-40,Belum,False
+716,P,1969-11-18,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2019.0,2017-04-01,S1,Ilmu Komunikasi,FISIP,57,>55,Bersertifikat,True
+717,P,1977-07-24,RUMPUN ILMU SOSIAL,Aktif,PPPK,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,III/c - Penata,Lektor,Sertifikasi Dosen,2012.0,2016-08-01,S2,Hubungan Internasional,FH,49,41-50,Bersertifikat,False
+718,P,1989-03-04,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,III/d - Penata Tk. I,Lektor,Sertifikasi Dosen,2022.0,2022-01-01,D3,Akuntansi,FEB,37,30-40,Bersertifikat,False
+719,P,1990-09-26,Tidak Terdefinisi,Aktif,PNS,Dosen Tetap,S2,III/c - Penata,Lektor,Belum Sertifikasi,,2023-04-01,S1,Ilmu Komunikasi,FISIP,36,30-40,Belum,False
+720,P,1963-12-22,RUMPUN ILMU SOSIAL,Aktif,NON ASN,Dosen Tetap Perjanjian Kerja Waktu Tertentu,S3,IV/a - Pembina,Lektor Kepala,Sertifikasi Dosen,2010.0,2009-04-01,S1,Ekonomi Syariah,FEB,62,>55,Bersertifikat,True
+721,L,1979-10-19,Tidak Terdefinisi,Aktif,ASN JF Non Dosen,Dosen Tidak Tetap,S3,Non-Golongan,Lektor,Belum Sertifikasi,,2023-01-01,S1,Hukum,FH,47,41-50,Belum,False
+722,P,1962-03-03,RUMPUN ILMU TERAPAN,Aktif,PNS,Dosen Tetap,S2,IV/a - Pembina,Lektor,Sertifikasi Dosen,2011.0,2001-01-01,S1,Ekonomi Syariah,FEB,64,>55,Bersertifikat,True
+723,P,1993-06-15,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2024-04-01,S1,Farmasi,FIKES,33,30-40,Belum,False
+724,L,1975-06-26,Tidak Terdefinisi,Aktif,NON ASN,Dosen Tidak Tetap,S3,Non-Golongan,Belum Ada,Belum Sertifikasi,,,S1,Ekonomi Pembangunan,FEB,51,51-55,Belum,False
+725,P,1974-12-17,RUMPUN ILMU TERAPAN,Aktif,NON ASN,Dosen Tidak Tetap,S2,Non-Golongan,Asisten Ahli,Belum Sertifikasi,,2024-08-01,S1,Ekonomi Pembangunan,FEB,52,51-55,Belum,False
