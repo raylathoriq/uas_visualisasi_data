@@ -1,47 +1,44 @@
-# app.py - Dashboard SDM Dosen Kampus XYZ (Streamlit + Plotly)
-# Jalankan: streamlit run app.py
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 from datetime import datetime
 
-# ================== Konfigurasi Halaman ==================
+
 st.set_page_config(
     page_title="Dashboard SDM Dosen Kampus XYZ",
     layout="wide",
 )
 
-# ================== Load & Siapkan Data ==================
+
 @st.cache_data
 def load_data(path="data_pegawai_clean.csv"):
     df = pd.read_csv(path)
     df.columns = [c.strip().lower() for c in df.columns]
 
-    # Usia (hitung dari tgl_lahir bila belum ada)
+  
     if "usia" not in df.columns and "tgl_lahir" in df.columns:
         df["tgl_lahir"] = pd.to_datetime(df["tgl_lahir"], errors="coerce")
         today = pd.Timestamp(datetime.now())
         df["usia"] = (today - df["tgl_lahir"]).dt.days // 365
     df["usia"] = pd.to_numeric(df.get("usia"), errors="coerce")
 
-    # Status sertifikasi (bila belum ada)
+    
     if "status_sertifikasi" not in df.columns and "sertifikasi" in df.columns:
         df["status_sertifikasi"] = df["sertifikasi"].apply(
             lambda x: "Bersertifikat" if pd.notna(x) and str(x).strip() != "" else "Belum Sertifikasi"
         )
 
-    # Jabatan akademik kosong -> Belum Ada
+ 
     if "jabatan_akademik" in df.columns:
         df["jabatan_akademik"] = df["jabatan_akademik"].fillna("Belum Ada").replace("", "Belum Ada")
 
-    # Tahun pengangkatan jabatan (buang anomali < 1990)
+   
     if "tgl_jabatan_akademik" in df.columns:
         df["tgl_jabatan_akademik"] = pd.to_datetime(df["tgl_jabatan_akademik"], errors="coerce")
         df["tahun_jabatan"] = df["tgl_jabatan_akademik"].dt.year
         df.loc[df["tahun_jabatan"] < 1990, "tahun_jabatan"] = pd.NA
 
-    # Tahun sertifikasi bersih
+    
     if "tahun_sertifikasi" in df.columns:
         df["tahun_sertifikasi"] = pd.to_numeric(df["tahun_sertifikasi"], errors="coerce")
         df.loc[df["tahun_sertifikasi"] < 1990, "tahun_sertifikasi"] = pd.NA
@@ -50,11 +47,10 @@ def load_data(path="data_pegawai_clean.csv"):
 
 df = load_data()
 
-# ================== Warna Tema ==================
 MERAH = "#B03A2E"
 ORANYE = "#E67E22"
 
-# ================== Sidebar Filter ==================
+# Filter
 st.sidebar.header("🔎 Filter")
 
 def buat_filter(label, kolom):
@@ -75,11 +71,11 @@ if f_ser is not None:
 if f_peg is not None:
     dff = dff[dff["stat_pegawai"].isin(f_peg)]
 
-# ================== Judul ==================
+# Judul
 st.title("Dashboard SDM Dosen Kampus XYZ")
 
 
-# ================== KPI Cards ==================
+# KPI CARDS
 total = len(dff)
 def pct(mask):
     return (mask.mean() * 100) if total else 0
@@ -89,16 +85,40 @@ pct_s3 = pct(dff["pendidikan"].eq("S3")) if "pendidikan" in dff else 0
 pct_pen = pct(dff["usia"].gt(55))
 jml_prof = int(dff["jabatan_akademik"].eq("Profesor").sum()) if "jabatan_akademik" in dff else 0
 
+style_kpi = """
+<div style="
+    background-color: #8B2E20; 
+    padding: 15px; 
+    border-radius: 4px; 
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.15);
+    margin-bottom: 10px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;">
+    <span style="color: white; margin: 0; font-size: 24px; font-weight: bold; line-height: 1.2;">{angka}</span>
+    <span style="color: #F5CBA7; margin: 2px 0 0 0; font-size: 13px; font-weight: 500; text-align: center; line-height: 1.2;">{label}</span>
+</div>
+"""
+
 k1, k2, k3, k4, k5 = st.columns(5)
-k1.metric("Total Dosen", f"{total}")
-k2.metric("Bersertifikat", f"{pct_ser:.1f}%")
-k3.metric("Pendidikan S3", f"{pct_s3:.1f}%")
-k4.metric("Usia > 55", f"{pct_pen:.1f}%")
-k5.metric("Jumlah Profesor", f"{jml_prof}")
+
+with k1:
+    st.markdown(style_kpi.format(angka=f"{total}", label="Total Dosen"), unsafe_allow_html=True)
+with k2:
+    st.markdown(style_kpi.format(angka=f"{pct_ser:.1f}%", label="Bersertifikat"), unsafe_allow_html=True)
+with k3:
+    st.markdown(style_kpi.format(angka=f"{pct_s3:.1f}%", label="Pendidikan S3"), unsafe_allow_html=True)
+with k4:
+    st.markdown(style_kpi.format(angka=f"{pct_pen:.1f}%", label="Usia > 55"), unsafe_allow_html=True)
+with k5:
+    st.markdown(style_kpi.format(angka=f"{jml_prof}", label="Jumlah Profesor"), unsafe_allow_html=True)
+
 
 st.divider()
 
-# ================== Baris 1: Perbandingan ==================
+# row1
 c1, c2 = st.columns(2)
 with c1:
     st.subheader("Jumlah Dosen per Fakultas")
@@ -116,7 +136,7 @@ with c2:
     fig.update_layout(xaxis_title="")
     st.plotly_chart(fig, use_container_width=True)
 
-# ================== Baris 2: Time Series ==================
+# row2
 c3, c4 = st.columns(2)
 with c3:
     st.subheader("Tren Sertifikasi per Tahun")
@@ -135,7 +155,7 @@ with c4:
         fig = px.area(d, x="Tahun", y="Jumlah", color_discrete_sequence=[MERAH])
         st.plotly_chart(fig, use_container_width=True)
 
-# ================== Baris 3: Distribusi ==================
+# row3
 c5, c6 = st.columns(2)
 with c5:
     st.subheader("Distribusi Usia (Histogram)")
@@ -148,7 +168,7 @@ with c6:
     fig.update_layout(xaxis_title="", yaxis_title="Usia")
     st.plotly_chart(fig, use_container_width=True)
 
-# ================== Baris 4: Relationship ==================
+# row4
 st.subheader("Hubungan Usia dan Jabatan Akademik")
 urutan = ["Belum Ada", "Asisten Ahli", "Lektor", "Lektor Kepala", "Profesor"]
 d = dff.dropna(subset=["usia"])
